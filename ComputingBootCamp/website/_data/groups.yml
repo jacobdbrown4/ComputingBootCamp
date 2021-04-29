@@ -1,0 +1,20 @@
+- key: setup
+  title: Setup
+
+- key: development
+  title: Software Development
+
+- key: fpga_commercial
+  title: Commerical FPGA
+
+- key: fpga_opensource
+  title: Open FPGA CAD
+
+- key: robotics
+  title: Robotics
+
+- key: resources
+  title: Resources
+
+- key: archive
+  title: Archive
